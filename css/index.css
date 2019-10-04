@@ -71,6 +71,29 @@ p {
     margin: 0 auto;
 }
 
+/* ----------------------------------------- */
+/* Header Styles */
+/* ----------------------------------------- */
+
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    width: 800px;
+    margin: 20px auto;
+}
+
+nav {
+    margin-bottom: 20px;
+    padding-bottom: 20px;
+}
+
+.nav-item {
+    padding: 0 35px;
+    text-decoration: none;
+    color: black;
+}
+
 .top-content {
     display: flex;
     flex-wrap: wrap;
