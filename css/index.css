@@ -94,6 +94,14 @@ nav {
     color: black;
 }
 
+/* ----------------------------------------- */
+/* Jumbo Image */
+/* ----------------------------------------- */
+
+.jumbo-img {
+    margin: -30px auto 30px;
+}
+
 .top-content {
     display: flex;
     flex-wrap: wrap;
