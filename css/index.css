@@ -89,9 +89,10 @@ nav {
 }
 
 .nav-item {
-    padding: 0 35px;
+    padding: 0 40px;
     text-decoration: none;
     color: black;
+    font-size: 14px;
 }
 
 /* ----------------------------------------- */
